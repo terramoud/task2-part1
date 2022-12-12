@@ -1,8 +1,8 @@
 line 1 modified
 line 2 modified
 line 3
-line 4
-line 5
+line 4 changed from another folder
+line 5 changed from another folder
 line 6
 line 7
 line 8
